@@ -1,1 +1,1 @@
-Estudos sobre orientação a objeto com php com base no livro PHP programando com orientação a objetos
+Estudos sobre orientação a objetos com php, com base no livro PHP programando com orientação a objetos
